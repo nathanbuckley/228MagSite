@@ -1,0 +1,22 @@
+{
+  "name": "228magsite",
+  "version": "0.1.0",
+  "description": "Official 228 mag site build",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch src/css/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanbuckley/228MagSite.git"
+  },
+  "author": "nathanbuckley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanbuckley/228MagSite/issues"
+  },
+  "homepage": "https://github.com/nathanbuckley/228MagSite#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
